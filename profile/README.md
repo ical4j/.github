@@ -1,11 +1,14 @@
 # Welcome to the iCal4j project
 
-The iCal4j project offers Java-based libraries and services supporting interoperability standards such as iCalendar and vCard.
+The iCal4j project offers Java-based tools and services supporting interoperability standards such as iCalendar and vCard.
 
 ## Target Audience
 
-iCal4j is primarily for developers interested in interoperability of data between software systems. This could be in the form of generating
+iCal4j is primarily for software developers interested in interoperability of data between software systems. This could be in the form of generating
 new data (such as publishing events or contact details), or consuming existing data (e.g. tracking responses to invites, etc.).
+
+Additional tools and services are also available to end users to support things like validation of iCalendar data, and integration with persistence
+solutions.
 
 ## Contributing
 
